@@ -1,4 +1,4 @@
-package test_one;
+package example.tests;
 
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.options.UiAutomator2Options;

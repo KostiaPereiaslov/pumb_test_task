@@ -1,4 +1,4 @@
-package test_one;
+package example.tests;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
